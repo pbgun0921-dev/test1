@@ -1,8 +1,5 @@
 streamlit
 openai
 supabase
-streamlit
-pandas
 plotly
-supabase
 pytz
